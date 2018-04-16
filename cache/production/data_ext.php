@@ -1,0 +1,4 @@
+<?php exit; ?>
+1544936677
+685
+a:4:{s:13:"phpbb/viglink";a:4:{s:8:"ext_name";s:13:"phpbb/viglink";s:10:"ext_active";s:1:"1";s:9:"ext_state";s:4:"b:0;";s:8:"ext_path";s:18:"ext/phpbb/viglink/";}s:16:"sitesplat/BBCore";a:4:{s:8:"ext_name";s:16:"sitesplat/BBCore";s:10:"ext_active";s:1:"1";s:9:"ext_state";s:4:"b:0;";s:8:"ext_path";s:21:"ext/sitesplat/BBCore/";}s:26:"sitesplat/flatbootsminicms";a:4:{s:8:"ext_name";s:26:"sitesplat/flatbootsminicms";s:10:"ext_active";s:1:"1";s:9:"ext_state";s:4:"b:0;";s:8:"ext_path";s:31:"ext/sitesplat/flatbootsminicms/";}s:14:"sitesplat/fltl";a:4:{s:8:"ext_name";s:14:"sitesplat/fltl";s:10:"ext_active";s:1:"1";s:9:"ext_state";s:4:"b:0;";s:8:"ext_path";s:19:"ext/sitesplat/fltl/";}}
